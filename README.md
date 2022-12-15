@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas!
 
-Meu nome é Lucas, seja bem Vindo ao meu perfil no GitHub. Sou Desenvolvedor Júnior e estou me formando em Análise e Desenvolvimento de Sistemas. Aqui você irá ver algums do meu projetos desenvolvidos usando técnologias como PHP, Laravel, MySQL e JavaScript.
+Meu nome é Lucas, seja bem Vindo ao meu perfil no GitHub. Sou Desenvolvedor Júnior e estou me formando em Análise e Desenvolvimento de Sistemas. Aqui você irá ver algums dos meus principais projetos desenvolvidos usando tecnologias como PHP, Laravel, MySQL e JavaScript.
 
 <div align="center">
   <a href="https://github.com/CLucasrodrigues22">
