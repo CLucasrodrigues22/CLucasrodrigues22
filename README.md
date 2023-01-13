@@ -4,7 +4,6 @@ Meu nome é Lucas, seja bem Vindo ao meu perfil no GitHub. Sou Desenvolvedor Jú
 
 <div align="center">
   <a href="https://github.com/CLucasrodrigues22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CLucasrodrigues22"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CLucasrodrigues22&show_icons=true&theme=dracula"/>
 </div>
  
