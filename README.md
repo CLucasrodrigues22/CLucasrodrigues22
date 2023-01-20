@@ -1,9 +1,12 @@
 ### Olá! Eu sou o Lucas!
 
 Meu nome é Lucas, seja bem Vindo ao meu perfil no GitHub. Sou Desenvolvedor Júnior e estou me formando em Análise e Desenvolvimento de Sistemas. Aqui você irá ver algums dos meus principais projetos desenvolvidos usando tecnologias como PHP, Laravel, MySQL e JavaScript.
-
+<hr>
+ ![Visitors](https://visitor-badge.glitch.me/badge?page_id=techjuliana&left_color=green&right_color=red)
+</hr>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/username=CLucasrodrigues22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CLucasrodrigues22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLucasrodrigues22&layout=compact&langs_count=10&theme=dark"/>
  
   <div style="display: inline_block"><br>
