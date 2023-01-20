@@ -2,7 +2,7 @@
 
 Meu nome é Lucas, seja bem Vindo ao meu perfil no GitHub. Sou Desenvolvedor Júnior e estou me formando em Análise e Desenvolvimento de Sistemas. Aqui você irá ver algums dos meus principais projetos desenvolvidos usando tecnologias como PHP, Laravel, MySQL e JavaScript.
 <hr>
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=techjuliana&left_color=green&right_color=red)
+ ![Visitors](https://visitor-badge.glitch.me/badge?page_id=CLucasrodrigues22&left_color=dark&right_color=red)
 </hr>
 <div align="center">
   
