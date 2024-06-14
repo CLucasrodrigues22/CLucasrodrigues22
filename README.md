@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas!
 
-Meu nome é Lucas, seja bem-vindo ao meu perfil no GitHub. Sou Desenvolvedor web e aqui você irá ver meus principais projetos desenvolvidos usando tecnologias como PHP, Laravel, MySQL e JavaScript.
+Meu nome é Lucas, seja bem-vindo ao meu perfil no GitHub. Sou Desenvolvedor web e aqui você irá ver meus principais projetos desenvolvidos usando tecnologias como PHP, Laravel e JavaScript.
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CLucasrodrigues22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
