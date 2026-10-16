@@ -1,4 +1,4 @@
-### Hi! I`m Lucas!
+### Hi there! I'm Lucas!
 
 Software Engineer experienced in building scalable applications, high-performance APIs, and modern web systems. Strong expertise in PHP/Laravel, Symfony, Vue.js, TypeScript, Inertia.js, Docker, Redis, PostgreSQL, and AWS.
 
