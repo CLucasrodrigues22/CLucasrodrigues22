@@ -1,6 +1,6 @@
-### Olá! Eu sou o Lucas!
+### Hi! I`m Lucas!
 
-Meu nome é Lucas, seja bem-vindo ao meu perfil no GitHub. Sou Desenvolvedor web e aqui você irá ver meus principais projetos desenvolvidos usando tecnologias como PHP, Laravel e JavaScript.
+Software Engineer experienced in building scalable applications, high-performance APIs, and modern web systems. Strong expertise in PHP/Laravel, Symfony, Vue.js, TypeScript, Inertia.js, Docker, Redis, PostgreSQL, and AWS.
 
  ##
  
